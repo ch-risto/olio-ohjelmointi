@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eloranta7_3", "Eloranta7_3.csproj", "{4029077A-0CD2-4604-A696-E448B0D17C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4029077A-0CD2-4604-A696-E448B0D17C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4029077A-0CD2-4604-A696-E448B0D17C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4029077A-0CD2-4604-A696-E448B0D17C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4029077A-0CD2-4604-A696-E448B0D17C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3632B1F-9495-4CDE-8EB7-1E82A9DD1DC2}
+	EndGlobalSection
+EndGlobal

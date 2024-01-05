@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eloranta5_2/1.0.0": {
+        "runtime": {
+          "Eloranta5_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eloranta5_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqY8OyofIh/f0ucx/15J5dxWOModmL4Cb71441oQ+Q/zTrxNBX1FXpUWolMfMfPK9k130iZYCpZlDYte/skaVA==",
+  "success": true,
+  "projectFilePath": "E:\\Insinöörikoulu\\Olio-ohjelmointi\\6. Abstraktit ja rajapinnat\\Tehtävät7\\Eloranta7_3\\Eloranta7_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Christa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Christa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Christa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\bin\Debug\net6.0\Eloranta5_1.exe
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\bin\Debug\net6.0\Eloranta5_1.deps.json
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\bin\Debug\net6.0\Eloranta5_1.runtimeconfig.json
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\bin\Debug\net6.0\Eloranta5_1.dll
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\bin\Debug\net6.0\Eloranta5_1.pdb
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.AssemblyInfoInputs.cache
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.AssemblyInfo.cs
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.csproj.CoreCompileInputs.cache
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.dll
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\refint\Eloranta5_1.dll
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.pdb
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\Eloranta5_1.genruntimeconfig.cache
+E:\Insinöörikoulu\Olio-ohjelmointi\4. Luokat\Tehtävät5\Eloranta5_1\obj\Debug\net6.0\ref\Eloranta5_1.dll
